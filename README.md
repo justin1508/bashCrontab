@@ -1,6 +1,6 @@
 # Arquivo de BACKUP
 
-    Arquivo de configuração do PM2 das API's Zema em Node
+    Arquivo de configuração do PM2
 
 ## Restore
 
